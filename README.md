@@ -8,9 +8,9 @@ Bot de Discord para encender/apagar servidores de Minecraft en Aternos
 
 {
     "credentials": {
-        "discord_bot": "Token de bot de discord",
-        "discord_channel": tu ID de canal ,
-        "aternos_user": "Usuario de aternos",
+        "discord_bot": "MTEzOTY1NDQ3NDY1OTUzMjg2MA.GhP-uA.OjQQXlz4DX9zNza-OgNNqEgUCzvc79LYjJiFRY",
+        "discord_channel": 1139659099282346054,
+        "aternos_user": "aracelyxd",
         "aternos_pwsd": "Contraseña de aternos"
     }
 }
